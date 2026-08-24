@@ -6,12 +6,9 @@
 
 ## About Me
 
-Curiosity killed the cat. But as an aspiring engineer, 
-curiosity is the trait I value most.
-Being an engineer is being driven to seek and solve
-real-world problems—and I'm just getting started.
+Curiosity killed the cat, but as an aspiring engineer, it is the trait I value most. Being an engineer means being driven to seek out and solve real-world problems—and I'm just getting started.
 
-- **Education**: Candidate for Applied Science at University of Waterloo (2024-2029)
+- **Education**: Candidate for Bachelor of Applied Science (BASc) at University of Waterloo (2024–2029)
 - **Location**: Waterloo, ON, Canada
 - **Portfolio**: [rayxueportfolio.com](https://rayxueportfolio.com)
 - **LinkedIn**: [Ray Xue](https://linkedin.com/in/ray-xue-157b50326)
@@ -46,11 +43,11 @@ A comprehensive IoT solution leveraging STM32 microcontrollers and AWS services 
 - **Features**: MQTT communication, serverless processing, live map visualization, auto-scaling
 
 ### Adaptive AI Chatbot - Raybot
-A Python-based conversational agent with modular skills system and persistent memory.
+A Python-based conversational agent with a modular skills system and persistent memory.
 - **Tech Stack**: Python, SQLite, Plugin Architecture
 - **Features**: Context-aware responses, skill modules, conversation memory, extensible design
 
-### STM32 Dyslexic Font Translation Tool
+### STM32 Dyslexia Font Translation Tool
 An assistive technology tool for educators to connect with students with learning disabilities.
 - **Tech Stack**: STM32 Nucleo, Embedded C
 - **Features**: Auto-translation, auto-correction, real-time processing
@@ -65,7 +62,7 @@ A Spotify-inspired web application connecting users with similar music tastes.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mmach1ne&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
-
+<br />
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mmach1ne&theme=tokyonight" alt="GitHub Streak" />
 </div>
@@ -73,21 +70,22 @@ A Spotify-inspired web application connecting users with similar music tastes.
 ## Achievements
 
 - 🥇 **Gold Prize** - University of British Columbia Physics Competition
-- 📈 **40% Engagement Increase** - Led customer service website launch at PandoPartner Inc
+- 📈 **40% Engagement Increase** - Led customer service website launch at PandoPartner Inc.
 - ⚡ **50% Efficiency Improvement** - Automated QA testing processes
-- 📚 **99% Average** - International Baccalaureate program while managing 15 hours/week athletics
+- 📚 **99% Average** - International Baccalaureate program while managing 15 hours/week of athletics
 
 ## Experience
 
-- **Software Developer** @ PandoPartner Inc (Jan 2025 - Apr 2025)
-- **Sales Associate** @ Best Buy (Jun 2022 - Aug 2022)
-- **Math Tutor** @ Mulgrave School (Jan 2022 - Jun 2022)
+- **Software Developer** @ PandoPartner Inc. (Jan 2025 – Apr 2025)
+- **Sales Associate** @ Best Buy (Jun 2022 – Aug 2022)
+- **Math Tutor** @ Mulgrave School (Jan 2022 – Jun 2022)
 
 ## Let's Connect!
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://rayxueportfolio.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rayxueportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mmach1ne)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ray-xue-157b50326)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r29xue@uwaterloo.ca)
 
