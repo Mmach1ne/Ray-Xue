@@ -72,14 +72,16 @@ A Spotify-inspired web application connecting users with similar music tastes.
 
 ## Achievements
 
-- 🥇 **Gold Prize** — University of British Columbia Physics Competition
-- 📈 **40% Engagement Increase** — Led customer service website launch at PandoPartner Inc.
-- ⚡ **50% Efficiency Improvement** — Automated QA testing processes
-- 📚 **99% Average** — International Baccalaureate program while managing 15 hours/week of athletics
+- **Customer Service** — Investigated and resolved complex customer-facing issues for OneVest
+- **End to End** — Comprehensive portfolio rebalancing application for a global investment bank.
+- **Academic** - Estimated 3.9 GPA
+- **Gold Prize** — University of British Columbia Physics Competition
 
 ## Experience
 
-- **Engineering Intern** @ OneVest (Present)
+
+- **Engineering Intern** @ OneVest (Return Offer) (Jan 2026 – Apr 2026)
+- **Engineering Intern** @ OneVest (Aug 2025 – Dec 2025)
 - **Software Developer** @ PandoPartner Inc. (Jan 2025 – Apr 2025)
 - **Sales Associate** @ Best Buy (Jun 2022 – Aug 2022)
 - **Math Tutor** @ Mulgrave School (Jan 2022 – Jun 2022)
